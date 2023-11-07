@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://doubleBlackWhite.github.io/rsschool-cv/sv
