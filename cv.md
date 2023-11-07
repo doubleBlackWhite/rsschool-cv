@@ -1,7 +1,7 @@
 # Dmitriy Stebeniev
 
 ## Contacts:
-- Phone: +111-111-111-111
+- Phone: +111 111 111 111
 - Email: example@gmail.com
 - GitHub: (https://github.com/doubleBlackWhite)
 
